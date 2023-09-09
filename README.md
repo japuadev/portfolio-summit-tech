@@ -9,4 +9,4 @@ Aqui, você encontrará:
 
 💫 E recursos e dicas para iniciantes da programação.
 
-Seja você mesmo, codifique com orgulho e faça parte deste encanto tecnológico. Este repositório é para todes! ✨🌈💻
+Seja você mesmo, codifique com orgulho e faça parte deste encanto tecnológico. Este repositório é para todes! ✨
